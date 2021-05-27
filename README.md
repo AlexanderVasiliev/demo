@@ -5,3 +5,4 @@
 - [Awesome git](https://github.com/dictcp/awesome-git)
 - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
 - [Уроки Ильи Кантора](https://www.youtube.com/watch?v=QkY8lXZuiqQ)
+- [Уроки Ильи Кантора](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
