@@ -1,7 +1,7 @@
 # SHRI
 
 ![status](https://img.shields.io/badge/waiting-for%20start-green)
-![version](https://img.shields.io/badge/lection-v.0.1.0-orange)
+![version](https://img.shields.io/badge/lection-v.0.2.0-orange)
 
 ## Полезные ссылки
 - [Шпаргалка по командам](https://github.com/arslanbilal/git-cheat-sheet)
